@@ -12,7 +12,6 @@ Feel free to explore the projects, review the code, and use them as references f
 
 ## Contact
 
-If you have any questions or would like to connect, feel free to reach out!
+If you have any questions or would like to connect, feel free to reach out.
 
-Thank you for visiting this repository. Happy coding!
 
