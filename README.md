@@ -1,7 +1,5 @@
-# Project Repository
+# GitHub Personal
 
-Welcome to my project repository! This repository contains some of the projects I have been working on over the past few months. These projects cover various areas of development and showcase my progress and learning in different technologies.
+En este repositorio, iré subiendo los proyectos personales que vaya realizando de ahora en adelante. 
 
-## About
-
-The projects included in this repository range from small experiments to more complex applications. Each project has its own folder with relevant documentation and source code.
+Cualquier duda podéis cotactarme a través de mi [Linkedin](https://www.linkedin.com/in/software-sergio-at/).
